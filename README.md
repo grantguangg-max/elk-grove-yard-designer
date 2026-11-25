@@ -19,7 +19,7 @@ This is also a hands-on AWS architecture project. Every design choice is recorde
 
 ## Architecture
 
-![Architecture diagram](docs/architecture.png)
+_Architecture diagram coming in Week 5._
 <!-- TODO: export the diagram to docs/architecture.png -->
 
 | Layer | Services |
